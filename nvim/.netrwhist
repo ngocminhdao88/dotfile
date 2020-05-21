@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/minh/dotfile/kicad/User_KiCad_Library/footprints/TerminalBlock_Degson.pretty'
+let g:netrw_dirhist_3='/home/minh/dotfile/kicad/User_KiCad_Library/footprints'
+let g:netrw_dirhist_2='/home/minh/dotfile/kicad/User_KiCad_Library'
+let g:netrw_dirhist_1='/home/minh/dotfile/kicad'

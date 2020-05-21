@@ -1,0 +1,10 @@
+# ignore neovim plugin folder
+**/plugged/
+
+# ignore FreeCAD plugin folder
+**/Mod/
+**/AddonManager/
+**/webdatapersistent/
+
+# ignore KiCAD plugin folder
+**/scripting/
