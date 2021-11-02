@@ -1,1 +1,0 @@
-from .InteractiveHtmlBom import plugin

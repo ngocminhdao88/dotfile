@@ -1,5 +1,5 @@
 * link bash.rc to ~/.bashrc
-* link PrusaSlicer to ~/.PrusaSlicer
+* link PrusaSlicer to ~/.config/PrusaSlicer
 * link tmux.conf to ~/.tmux.conf
 * link nvim_dotfile to ~/.config/nvim
 * link kicad to ~/.config/kicad
